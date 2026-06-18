@@ -1,6 +1,6 @@
 # 🤖 AI Investor Intelligence Agent
 
-> **Hackathon Submission — AI for the Indian Investor**
+> **AI for the Indian Investor**
 > An autonomous, multi-agent financial intelligence platform for Indian retail investors. Monitors ET Markets + NSE in real-time, detects alpha signals, analyzes chart patterns, provides portfolio-aware AI chat, and auto-generates market update videos — zero human editing required.
 
 ---
